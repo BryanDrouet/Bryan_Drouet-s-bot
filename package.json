@@ -1,0 +1,14 @@
+{
+  "name": "discord-role-picker-bot",
+  "version": "1.0.0",
+  "description": "Bot Discord de sélection de rôles via Display Components (Components V2), conforme RGPD.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "deploy-commands": "node deploy-commands.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.19.0",
+    "dotenv": "^16.0.0"
+  }
+}

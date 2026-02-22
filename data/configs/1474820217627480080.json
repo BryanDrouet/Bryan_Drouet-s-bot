@@ -1,0 +1,37 @@
+{
+  "guildId": "1474820217627480080",
+  "title": "Attribuez / retirez vous des rôles de notifications",
+  "footer": "Nous vous souhaitons un excellent séjour sur le serveur !",
+  "accentColor": 16732754,
+  "entries": [
+    {
+      "id": "132de98e",
+      "roleId": "1474862071396171991",
+      "label": "Membre",
+      "description": "Devenir membre du serveur",
+      "emoji": "🚅"
+    },
+    {
+      "id": "fe150e90",
+      "roleId": "1474840300634771516",
+      "label": "Ping bêta tests",
+      "description": "Ping des différentes bêta tests",
+      "emoji": "🛠️"
+    }
+  ],
+  "messageId": "1474930321039294710",
+  "channelId": "1474924635475935262",
+  "createdAt": "2026-02-21T18:48:39.752Z",
+  "updatedAt": "2026-02-22T00:50:30.851Z",
+  "logChannelId": "1474857686704193546",
+  "adminUsers": [],
+  "adminRoles": [
+    "1474861822128554016"
+  ],
+  "logVisual": true,
+  "layout": "section",
+  "dividers": false,
+  "logRoles": true,
+  "logRgpd": true,
+  "logAdmin": true
+}
